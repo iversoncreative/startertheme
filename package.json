@@ -1,11 +1,11 @@
 {
-  "name": "slate",
-  "version": "2.3.1",
+  "name": "startertheme",
+  "version": "1.0.0",
   "author": "Patrick Iverson <hello@patrickiverson.com>",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/iversoncreative/slate.git"
+    "url": "https://github.com/iversoncreative/startertheme.git"
   },
   "licenses": [
     {
